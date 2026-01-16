@@ -4,7 +4,7 @@ When using the official [BrowseComp-ZH](https://github.com/PALIN2018/BrowseComp-
 
 We have manually corrected the answers for 24 problems. `answer` and `raw_answer` correspond to the corrected and original answers, respectively. We provide the specific reasons for the corrections in the `reason` field and use `answer_diff` to identify the modified data. 
 
-The revised benchmark is `./benchmarks/browsecomp-zh.jsonl`, the following is a demo:
+The revised benchmark is `./data/browsecomp-zh.jsonl`, the following is a demo:
 ```json
 {
     "problem": "某歌手出生于中国北方，20岁开始音乐创作，28岁推出第3张个人专辑，专辑名5个字，且带数字。2015年前后，为某音乐综艺冠军担当编曲及制作，第二年为某电影制作的同名主题曲发布。问他举办婚礼的日期",
