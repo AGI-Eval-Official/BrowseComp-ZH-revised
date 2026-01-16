@@ -24,7 +24,7 @@ The revised benchmark is `./data/browsecomp-zh.jsonl`, the following is a demo:
 **If you use the resources from this project, please cite as follows:**
 
 ```bibtex
-@misc{revisedbench2026,
+@misc{browsecomp-zh-revised2026,
   author       = {AGI-Eval},
   title        = {BrowseComp-ZH-revised},
   year         = {2026},
